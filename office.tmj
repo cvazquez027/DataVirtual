@@ -660,15 +660,15 @@
          "tilewidth":32
         }, 
         {
-         "columns":6,
+         "columns":2,
          "firstgid":1827,
          "image":"tilesets\/WA_Logo_Long.png",
          "imageheight":32,
-         "imagewidth":192,
+         "imagewidth":81,
          "margin":0,
          "name":"WA_Logo_Long",
          "spacing":0,
-         "tilecount":6,
+         "tilecount":2,
          "tileheight":32,
          "tilewidth":32
         }, 
